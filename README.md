@@ -2,9 +2,9 @@
 Pixelator.js v0.500
 ============
 
-*A small pixel painter widget by Chris Malcolm. Originally I made this to facilitate a crowdsourced emoji website I was building. No pixel painter met my needs to I decided to build one myself. See [http://documentronjs.chris-malcolm.com](http://pixelatorjs.chris-malcolm.com) for more info*
+*A small pixel painter widget by Chris Malcolm. Originally I made this to facilitate a crowdsourced emoji website I was building. No pixel painter met my needs to I decided to build one myself. See [http://pixelatorjs.chris-malcolm.com](http://pixelatorjs.chris-malcolm.com) for more info*
 
-[!example](https://i.imgur.com/Vut5EU2.png)
+![example](https://i.imgur.com/Vut5EU2.png)
 
 ```js
 //create a new instance 400 x 400 with 10 pixel module (10 x 10 grid)
