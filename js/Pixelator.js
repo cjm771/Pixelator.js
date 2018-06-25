@@ -433,10 +433,10 @@ Import raw data (drawing in  Object Format). See #.rawData for exporting raw dat
             }
 /** clearBoard
 
-Import raw data (drawing in  Object Format). See rawData property for what this looks like
+Clears board of any data!
 
 @group Methods
-@param preserveData {boolean} [optional, default:false] --> Optional boolean flag to preserve rawData .
+@param preserveData {boolean} [optional, default:false] --> Optional boolean flag to preserve rawData.
 
 */
             this.clearBoard = function(preserveData){
