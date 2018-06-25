@@ -1,3 +1,17 @@
+/*
+* pixelator.js v0.500 
+* http://pixelatorjs.chris-malcolm.com
+*
+* Copyright 2017, Chris Malcolm
+* http://chris-malcolm.com/
+*
+* Licensed under the MIT license:
+* http://www.opensource.org/licenses/MIT
+*
+*
+*  A library for creating pixel paint widgets
+*
+*/    
     
 /** Adding_Library
 
