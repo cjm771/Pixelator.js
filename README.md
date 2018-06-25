@@ -17,6 +17,7 @@ var pxltr =  new Pixelator({
     currentColor: "#ff0000"
 })
 ```
+
   ** *Menu* **  
 
  
@@ -198,7 +199,7 @@ clearBoard()
 clearBoard()
 ```
 
-Import raw data (drawing in  Object Format). See rawData property for what this looks like
+Clears board of any data!
 
 + **preserveData** *boolean* *(optional)* - -> Optional boolean flag to preserve rawData . ...  *Default:* **false** 
 
