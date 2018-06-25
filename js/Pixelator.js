@@ -1,4 +1,19 @@
-    
+ /*
+ * pixelator.js v0.500 
+ * http://pixelator.chris-malcolm.com
+ *
+ * Copyright 2017, Chris Malcolm
+ * http://chris-malcolm.com/
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ *
+ *
+ *  A library for generating pixel painter widgets!
+ *
+ */
+
+
 /** Adding_Library
 
 Before starting make sure you have included [jQuery (http://jquery.com)] and the Pixelator.js library in the head of your script. If using the toolbar options make sure you include spectrum.js as a dependency.
